@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=IntegerList
+comment1.params=size
+comment1.target=IntegerList(int)
+comment2.params=
+comment2.target=void\ randomize()
+comment3.params=
+comment3.target=void\ print()
+comment4.params=target
+comment4.target=int\ search(int)
+comment5.params=
+comment5.target=void\ selectionSort()
+comment6.params=
+comment6.target=void\ increaseSize()
+comment7.params=newVal
+comment7.target=void\ addElement(int)
+numComments=8
