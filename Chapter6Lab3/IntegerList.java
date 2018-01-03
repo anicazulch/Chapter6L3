@@ -162,4 +162,13 @@ public class IntegerList{
         //int loc = search(0);
         //list[loc] = newVal;
     }
+    public void removeFirst(int newVal){
+        int loc = search(newVal);
+        list[loc] = newVal;
+        int[] newList = new int[list.length - 1];
+        for(int i = 0; i < list.length; i++) {
+            newList[i] = list[i];
+        }
+        list = newList;
+    }
 }

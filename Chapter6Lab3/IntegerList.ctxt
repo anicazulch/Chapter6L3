@@ -14,4 +14,6 @@ comment6.params=
 comment6.target=void\ increaseSize()
 comment7.params=newVal
 comment7.target=void\ addElement(int)
-numComments=8
+comment8.params=newVal
+comment8.target=void\ removeFirst(int)
+numComments=9
